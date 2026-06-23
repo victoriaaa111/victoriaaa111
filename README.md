@@ -57,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=victoriaaa111&theme=date_night&hide_border=true&show_icons=true" height="180"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=victoriaaa111&theme=date_night&hide_border=true&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=victoriaaa111&theme=rose&hide_border=true&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=victoriaaa111&theme=rose&hide_border=true&layout=compact" height="180"/>
 </p>
 
 ---
