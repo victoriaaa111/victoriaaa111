@@ -2,11 +2,13 @@
 
 # 🌸 Hi, I'm Victoria!
 
-### Frontend Developer • Software Engineering Student • Moldova 🇲🇩
-
-✨ Passionate about building modern web applications with Angular and TypeScript.<br/>
+### 💖 Frontend Developer • Software Engineering Student • Moldova 🇲🇩
 
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=Passionate+about+building+modern+web+applications;Angular+%2B+TypeScript+Developer;Always+learning+something+new+✨" />
+</p>
 
 ---
 
@@ -31,12 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="45" height="45"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
 </p>
 
@@ -53,10 +54,10 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=victoriaaa111&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=victoriaaa111&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=victoriaaa111&theme=date_night&hide_border=true&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=victoriaaa111&theme=date_night&hide_border=true&layout=compact" height="180"/>
+</p>
 
 ---
 
