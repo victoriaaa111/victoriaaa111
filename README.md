@@ -10,6 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=Passionate+about+building+modern+web+applications;Angular+%2B+TypeScript+Developer;Always+learning+something+new+✨" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216658115-017b0125-1bba-409d-b789-c04362c0adfb.gif" width="250"/>
+</p>
 ---
 
 
